@@ -1,2 +1,12 @@
-# 377.github.io
-12 web pages for redirecting from QR codes.
+<!DOCTYPE html>
+<html>
+<head>
+<title>377</title>
+</head>
+<body>
+
+<h1>Город герой - Ленинград</h1>
+<p>Ленинград был окружён немцами.</p>
+
+</body>
+</html>
